@@ -1,5 +1,5 @@
 # ExpNo 4 : Implement A* search algorithm for a Graph
-<h3>Name: MUGIL M. N</h3>
+<h3>Name: MUGIL M.</h3>
 <h3>Register Number:212223230127</h3>
 
 ## Aim :
